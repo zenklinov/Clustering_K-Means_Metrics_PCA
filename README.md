@@ -1,6 +1,6 @@
 # K-Means Clustering: Comparing Metrics with PCA
 
-This repository contains a Jupyter Notebook (`K-Means-comparing-metrics-with-pca.ipynb`) that demonstrates the process of performing K-Means clustering on the Iris dataset using different distance metrics (Euclidean, Manhattan, Cosine) and evaluating the clustering results with Principal Component Analysis (PCA).
+This repository contains a Jupyter Notebook (`K-Means-comparing-metrics-with-pca-2-unsupervised-machine-learning.ipynb`) that demonstrates the process of performing K-Means clustering on the Iris dataset using different distance metrics (Euclidean, Manhattan, Cosine) and evaluating the clustering results with Principal Component Analysis (PCA).
 
 ## Content
 
